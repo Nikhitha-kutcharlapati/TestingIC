@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "W3URpcYffLwU/D6O8P1ePS+vQ3ySFcBoVsMYI8I3G5BljccXFtFoeOVl/cs/kRAmJyBCTHi93+J7ZF86LHkdqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\praju\\OneDrive\\Desktop\\Gitprojects\\TestingIC\\TestingIC\\TestingIC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\praju\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\praju\\.nuget\\packages\\selenium.support\\4.18.1\\selenium.support.4.18.1.nupkg.sha512",
+    "C:\\Users\\praju\\.nuget\\packages\\selenium.webdriver\\4.18.1\\selenium.webdriver.4.18.1.nupkg.sha512",
+    "C:\\Users\\praju\\.nuget\\packages\\selenium.webdriver.chromedriver\\122.0.6261.5700\\selenium.webdriver.chromedriver.122.0.6261.5700.nupkg.sha512",
+    "C:\\Users\\praju\\.nuget\\packages\\selenium.webdriver.msedgedriver\\120.0.2210.144\\selenium.webdriver.msedgedriver.120.0.2210.144.nupkg.sha512"
+  ],
+  "logs": []
+}
